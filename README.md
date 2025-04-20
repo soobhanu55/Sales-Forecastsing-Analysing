@@ -22,7 +22,7 @@ Retail businesses rely heavily on accurate demand forecasting to optimize invent
   - LSTM (Deep Learning)
 - 📉 Performance evaluation using MAE, RMSE, and R²
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -30,7 +30,4 @@ Retail businesses rely heavily on accurate demand forecasting to optimize invent
 - **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `scipy`, `statsmodels`, `xgboost`, `sklearn`, `keras`, `prophet`
 - **Data Source:** Walmart M5 Forecasting Dataset (calendar.csv, sales_price.csv, sales_train.csv)
 
----
-
-## 📂 Project Structure
 
